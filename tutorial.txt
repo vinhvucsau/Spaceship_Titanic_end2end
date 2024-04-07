@@ -1,0 +1,8 @@
+1. init git 
+2. clone git 
+3. create venv 
+    conda create -p venv python=3.8 -y
+    conda activate venv 
+4. create requirements.txt
+5. pip install -r requirements.txt 
+6. run template.py
